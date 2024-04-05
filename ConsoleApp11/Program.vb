@@ -1,6 +1,6 @@
 Imports System
 Public Class Rectangle
-    Private length As Integer
+    Private length As Integer 'variable declaration'
     Private width As Integer
 
     Public Sub New(ByVal length As Integer, ByVal width As Integer)
